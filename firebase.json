@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": ".",
+    "redirects": [
+      {
+        "source": "/**",
+        "destination": "https://riapesquisa.com",
+        "type": 301
+      }
+    ]
+  }
+}
